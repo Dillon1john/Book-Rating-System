@@ -1,0 +1,6 @@
+Flask==2.2.3
+flask
+flask_wtf
+Flask-Bootstrap==3.3.7.1
+flask_sqlalchemy
+greenlet==1.1.0
